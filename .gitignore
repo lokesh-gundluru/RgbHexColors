@@ -1,0 +1,95 @@
+# Temporary/backup/editor files
+*~
+.*.un~
+*.exe
+*.out
+# === C/C++ ===
+*.o
+*.obj
+*.lo
+*.la
+*.al
+*.a
+*.so
+*.dll
+*.dylib
+*.exe
+*.out
+*.gch
+*.pch
+*.class
+*.stackdump
+*.suo
+*.idb
+*.pdb
+*.mod
+*.cmd
+
+# CMake
+CMakeCache.txt
+CMakeFiles/
+cmake_install.cmake
+Makefile
+
+# === C# ===
+*.dll
+*.exe
+*.pdb
+*.cache
+*.mdb
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+*.vs/
+*.csproj.user
+*.nupkg
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+# === Java ===
+*.class
+*.jar
+*.war
+*.ear
+*.log
+hs_err_pid*
+.recommenders/
+
+# Eclipse
+.project
+.classpath
+.settings/
+bin/
+build/
+
+# IntelliJ
+*.iml
+.idea/
+out/
+
+# === Python ===
+*.pyc
+*.pyo
+*.pyd
+__pycache__/
+*.egg-info/
+.eggs/
+*.env
+*.venv
+env/
+venv/
+ENV/
+build/
+dist/
+
+# Jupyter Notebook Checkpoints
+.ipynb_checkpoints
+
+# VS Code settings
+.vscode/
+
+# System files
+.DS_Store
+Thumbs.db
